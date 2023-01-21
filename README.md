@@ -8,5 +8,5 @@ This is and  e-commerce website created using HTML CSS and JavaScript. The websi
 5. Contact page consists various contact information<br>
 <br>
 Clicking on the individual products leads to a seperate page. The single product page contains all the details of products, price, sellers' information 
-The website contain Working shopping cart where you can add/remove products, adding the billing address, checkout of cart leads to Payment page.
-The Payment gateway is added using RazorPay APIand Newsletter section is added with EmailJS.
+<br><br>The website contain Working shopping cart where you can add/remove products, adding the billing address, checkout of cart leads to Payment page.
+<br><br>The Payment gateway is added using RazorPay APIand Newsletter section is added with EmailJS.
