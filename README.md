@@ -1,6 +1,6 @@
 # E-Commerce-Website-for-Small-Business
 <br>
-This is and  e-commerce website craeted using HTML CSS and JavaScript. The website is mainly focused on small businesses where they can sell their products online. The website include following pages like Home, Shop, Blog, About and Contact.<hr>
+This is and  e-commerce website craeted using HTML CSS and JavaScript. The website is mainly focused on small businesses where they can sell their products online. The website include following pages like Home, Shop, Blog, About and Contact.<br>
 1.Shop page lists all the products
 Clicking on the individual products leads to a seperate page
 The single product page contains all the details of products, price, sellers' information 
